@@ -1,1 +1,14 @@
+.menubar{
 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+.menubar div{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(255, 255, 255, .85);
+
+}
